@@ -13,7 +13,7 @@
 
 include("../autoloader.php");
 
-use RAMP\XML\Validator;
+use RAMP\Xml\Validator;
 
 $eac_xml = $_POST["eac_xml"];
 
